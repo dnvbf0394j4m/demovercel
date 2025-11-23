@@ -11,6 +11,11 @@ function App() {
       >
         Bấm thử
       </button>
+
+      <div className="footer">
+<p>thich thi nhich</p>
+
+      </div>
     </div>
   );
 }
